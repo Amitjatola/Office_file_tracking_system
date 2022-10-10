@@ -1,6 +1,3 @@
-# Office_file_tracking_system
-
-• A project which get rid of offline system like a long queue, wastage of time.
-• A system where a student can apply for scholarship and can see the process that his/her application is
-approved or not
-• Student as well as Staff members can register themselves and move according to their required procedure.
+#Application Tracking System
+This project is developed to digitize the process of application and verification for college documents and other purposes and to provide a hectic free solution for the process of circulating new forms.
+\item In this system a new Staff member or a Student can register themselves and then log in to use the system. Students can apply for any ongoing event and their Application automatically goes to the concerned authority which can redirect it to higher authorities and then they can approve or reject it and the Applicants will be able to track their applications in real-time.
